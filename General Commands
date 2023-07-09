@@ -1,0 +1,5 @@
+Linux cheating sheet: https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
+
+uname -a # check the info of the system and machine
+uname -r
+
