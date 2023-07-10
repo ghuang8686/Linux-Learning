@@ -3,3 +3,4 @@ Linux cheating sheet: https://www.linuxtrainingacademy.com/linux-commands-cheat-
 uname -a # check the info of the system and machine
 uname -r
 
+touch <directory> # Create a file under the specific directory
